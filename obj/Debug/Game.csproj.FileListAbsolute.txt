@@ -1,0 +1,141 @@
+E:\Game\bin\Debug\Game.exe.config
+E:\Game\bin\Debug\Game.exe
+E:\Game\bin\Debug\Game.pdb
+E:\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+E:\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+E:\Game\obj\Debug\Game.exe
+E:\Game\obj\Debug\Game.pdb
+G:\Game\bin\Debug\Game.exe.config
+G:\Game\bin\Debug\Game.exe
+G:\Game\bin\Debug\Game.pdb
+G:\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+G:\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+G:\Game\obj\Debug\Game.exe
+G:\Game\obj\Debug\Game.pdb
+C:\Users\crist\Downloads\Game (1)\bin\Debug\Game.exe.config
+C:\Users\crist\Downloads\Game (1)\bin\Debug\Game.exe
+C:\Users\crist\Downloads\Game (1)\bin\Debug\Game.pdb
+C:\Users\crist\Downloads\Game (1)\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\crist\Downloads\Game (1)\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\crist\Downloads\Game (1)\obj\Debug\Game.exe
+C:\Users\crist\Downloads\Game (1)\obj\Debug\Game.pdb
+C:\Users\LJ\Downloads\Game (1)\Game (1)\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\LJ\Downloads\Game (1)\Game (1)\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\LJ\Downloads\Game (1)\Game (1)\obj\Debug\Game.exe
+C:\Users\LJ\Downloads\Game (1)\Game (1)\obj\Debug\Game.pdb
+C:\Users\LJ\Downloads\Game (1)\Game (1)\bin\Debug\Game.exe.config
+C:\Users\LJ\Downloads\Game (1)\Game (1)\bin\Debug\Game.exe
+C:\Users\LJ\Downloads\Game (1)\Game (1)\bin\Debug\Game.pdb
+C:\Users\crist\Downloads\asdasdsad\Latest\Game (1)\bin\Debug\Game.exe.config
+C:\Users\crist\Downloads\asdasdsad\Latest\Game (1)\bin\Debug\Game.exe
+C:\Users\crist\Downloads\asdasdsad\Latest\Game (1)\bin\Debug\Game.pdb
+C:\Users\crist\Downloads\asdasdsad\Latest\Game (1)\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\crist\Downloads\asdasdsad\Latest\Game (1)\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\crist\Downloads\asdasdsad\Latest\Game (1)\obj\Debug\Game.exe
+C:\Users\crist\Downloads\asdasdsad\Latest\Game (1)\obj\Debug\Game.pdb
+D:\College 2nd\IT111L(C#)\Game 21-10-2022\Game 21-10-2022\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\College 2nd\IT111L(C#)\Game 21-10-2022\Game 21-10-2022\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\College 2nd\IT111L(C#)\Game 21-10-2022\Game 21-10-2022\obj\Debug\Game.exe
+D:\College 2nd\IT111L(C#)\Game 21-10-2022\Game 21-10-2022\obj\Debug\Game.pdb
+D:\College 2nd\IT111L(C#)\Game 21-10-2022\Game 21-10-2022\bin\Debug\Game.exe.config
+D:\College 2nd\IT111L(C#)\Game 21-10-2022\Game 21-10-2022\bin\Debug\Game.exe
+D:\College 2nd\IT111L(C#)\Game 21-10-2022\Game 21-10-2022\bin\Debug\Game.pdb
+C:\Users\crist\Downloads\Game 23-10-2022\Game 23-10-2022\Game 23-10-2022\bin\Debug\Game.exe.config
+C:\Users\crist\Downloads\Game 23-10-2022\Game 23-10-2022\Game 23-10-2022\bin\Debug\Game.exe
+C:\Users\crist\Downloads\Game 23-10-2022\Game 23-10-2022\Game 23-10-2022\bin\Debug\Game.pdb
+C:\Users\crist\Downloads\Game 23-10-2022\Game 23-10-2022\Game 23-10-2022\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\crist\Downloads\Game 23-10-2022\Game 23-10-2022\Game 23-10-2022\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\crist\Downloads\Game 23-10-2022\Game 23-10-2022\Game 23-10-2022\obj\Debug\Game.exe
+C:\Users\crist\Downloads\Game 23-10-2022\Game 23-10-2022\Game 23-10-2022\obj\Debug\Game.pdb
+C:\Users\LJ\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V2\bin\Debug\Game.exe.config
+C:\Users\LJ\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V2\bin\Debug\Game.exe
+C:\Users\LJ\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V2\bin\Debug\Game.pdb
+C:\Users\LJ\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V2\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\LJ\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V2\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\LJ\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V2\obj\Debug\Game.exe
+C:\Users\LJ\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V2\obj\Debug\Game.pdb
+C:\Users\crist\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V3\Game 23-10-2022 V3\bin\Debug\Game.exe.config
+C:\Users\crist\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V3\Game 23-10-2022 V3\bin\Debug\Game.exe
+C:\Users\crist\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V3\Game 23-10-2022 V3\bin\Debug\Game.pdb
+C:\Users\crist\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V3\Game 23-10-2022 V3\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\crist\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V3\Game 23-10-2022 V3\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\crist\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V3\Game 23-10-2022 V3\obj\Debug\Game.exe
+C:\Users\crist\Downloads\Game 23-10-2022 V3\Game 23-10-2022 V3\Game 23-10-2022 V3\obj\Debug\Game.pdb
+C:\Users\johnr\Desktop\Game 23-10-2022 V4\Game 23-10-2022 V4\bin\Debug\Game.exe.config
+C:\Users\johnr\Desktop\Game 23-10-2022 V4\Game 23-10-2022 V4\bin\Debug\Game.exe
+C:\Users\johnr\Desktop\Game 23-10-2022 V4\Game 23-10-2022 V4\bin\Debug\Game.pdb
+C:\Users\johnr\Desktop\Game 23-10-2022 V4\Game 23-10-2022 V4\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\johnr\Desktop\Game 23-10-2022 V4\Game 23-10-2022 V4\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\johnr\Desktop\Game 23-10-2022 V4\Game 23-10-2022 V4\obj\Debug\Game.exe
+C:\Users\johnr\Desktop\Game 23-10-2022 V4\Game 23-10-2022 V4\obj\Debug\Game.pdb
+D:\College 2nd\IT111L(C#)\Game\Game_24-10-2022\Game 24-10-2022\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\College 2nd\IT111L(C#)\Game\Game_24-10-2022\Game 24-10-2022\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\College 2nd\IT111L(C#)\Game\Game_24-10-2022\Game 24-10-2022\obj\Debug\Game.exe
+D:\College 2nd\IT111L(C#)\Game\Game_24-10-2022\Game 24-10-2022\obj\Debug\Game.pdb
+D:\College 2nd\IT111L(C#)\Game\Game_24-10-2022\Game 24-10-2022\bin\Debug\Game.exe.config
+D:\College 2nd\IT111L(C#)\Game\Game_24-10-2022\Game 24-10-2022\bin\Debug\Game.exe
+D:\College 2nd\IT111L(C#)\Game\Game_24-10-2022\Game 24-10-2022\bin\Debug\Game.pdb
+C:\Users\crist\Desktop\Game_24-10-2022(V2)\bin\Debug\Game.exe.config
+C:\Users\crist\Desktop\Game_24-10-2022(V2)\bin\Debug\Game.exe
+C:\Users\crist\Desktop\Game_24-10-2022(V2)\bin\Debug\Game.pdb
+C:\Users\crist\Desktop\Game_24-10-2022(V2)\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Game_24-10-2022(V2)\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Game_24-10-2022(V2)\obj\Debug\Game.exe
+C:\Users\crist\Desktop\Game_24-10-2022(V2)\obj\Debug\Game.pdb
+C:\Users\crist\Desktop\Game_24-10-2022\Game_24-10-2022 (V2)\bin\Debug\Game.exe.config
+C:\Users\crist\Desktop\Game_24-10-2022\Game_24-10-2022 (V2)\bin\Debug\Game.exe
+C:\Users\crist\Desktop\Game_24-10-2022\Game_24-10-2022 (V2)\bin\Debug\Game.pdb
+C:\Users\crist\Desktop\Game_24-10-2022\Game_24-10-2022 (V2)\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Game_24-10-2022\Game_24-10-2022 (V2)\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Game_24-10-2022\Game_24-10-2022 (V2)\obj\Debug\Game.exe
+C:\Users\crist\Desktop\Game_24-10-2022\Game_24-10-2022 (V2)\obj\Debug\Game.pdb
+C:\Users\johnr\Desktop\Game_24-10-2022\Game_24-10-2022\Game_24-10-2022 (V3)\bin\Debug\Game.exe.config
+C:\Users\johnr\Desktop\Game_24-10-2022\Game_24-10-2022\Game_24-10-2022 (V3)\bin\Debug\Game.exe
+C:\Users\johnr\Desktop\Game_24-10-2022\Game_24-10-2022\Game_24-10-2022 (V3)\bin\Debug\Game.pdb
+C:\Users\johnr\Desktop\Game_24-10-2022\Game_24-10-2022\Game_24-10-2022 (V3)\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\johnr\Desktop\Game_24-10-2022\Game_24-10-2022\Game_24-10-2022 (V3)\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\johnr\Desktop\Game_24-10-2022\Game_24-10-2022\Game_24-10-2022 (V3)\obj\Debug\Game.exe
+C:\Users\johnr\Desktop\Game_24-10-2022\Game_24-10-2022\Game_24-10-2022 (V3)\obj\Debug\Game.pdb
+D:\College 2nd\IT111L(C#)\Game\Game_25-10-2022\Game_25-10-2022\Game_24-10-2022 (V3)\bin\Debug\Game.exe.config
+D:\College 2nd\IT111L(C#)\Game\Game_25-10-2022\Game_25-10-2022\Game_24-10-2022 (V3)\bin\Debug\Game.exe
+D:\College 2nd\IT111L(C#)\Game\Game_25-10-2022\Game_25-10-2022\Game_24-10-2022 (V3)\bin\Debug\Game.pdb
+D:\College 2nd\IT111L(C#)\Game\Game_25-10-2022\Game_25-10-2022\Game_24-10-2022 (V3)\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\College 2nd\IT111L(C#)\Game\Game_25-10-2022\Game_25-10-2022\Game_24-10-2022 (V3)\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\College 2nd\IT111L(C#)\Game\Game_25-10-2022\Game_25-10-2022\Game_24-10-2022 (V3)\obj\Debug\Game.exe
+D:\College 2nd\IT111L(C#)\Game\Game_25-10-2022\Game_25-10-2022\Game_24-10-2022 (V3)\obj\Debug\Game.pdb
+C:\Users\crist\Desktop\Game_25-10-2022\Game_24-10-2022 (V3)\bin\Debug\Game.exe.config
+C:\Users\crist\Desktop\Game_25-10-2022\Game_24-10-2022 (V3)\bin\Debug\Game.exe
+C:\Users\crist\Desktop\Game_25-10-2022\Game_24-10-2022 (V3)\bin\Debug\Game.pdb
+C:\Users\crist\Desktop\Game_25-10-2022\Game_24-10-2022 (V3)\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Game_25-10-2022\Game_24-10-2022 (V3)\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Game_25-10-2022\Game_24-10-2022 (V3)\obj\Debug\Game.exe
+C:\Users\crist\Desktop\Game_25-10-2022\Game_24-10-2022 (V3)\obj\Debug\Game.pdb
+C:\Users\crist\Desktop\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\bin\Debug\Game.exe.config
+C:\Users\crist\Desktop\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\bin\Debug\Game.exe
+C:\Users\crist\Desktop\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\bin\Debug\Game.pdb
+C:\Users\crist\Desktop\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.exe
+C:\Users\crist\Desktop\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.pdb
+C:\Users\LJ\Downloads\Group_2_DelosSantos_Sibayan_Rivera_Ramos (1)\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\bin\Debug\Game.exe.config
+C:\Users\LJ\Downloads\Group_2_DelosSantos_Sibayan_Rivera_Ramos (1)\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\bin\Debug\Game.exe
+C:\Users\LJ\Downloads\Group_2_DelosSantos_Sibayan_Rivera_Ramos (1)\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\bin\Debug\Game.pdb
+C:\Users\LJ\Downloads\Group_2_DelosSantos_Sibayan_Rivera_Ramos (1)\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\LJ\Downloads\Group_2_DelosSantos_Sibayan_Rivera_Ramos (1)\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\LJ\Downloads\Group_2_DelosSantos_Sibayan_Rivera_Ramos (1)\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.exe
+C:\Users\LJ\Downloads\Group_2_DelosSantos_Sibayan_Rivera_Ramos (1)\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.pdb
+D:\College 2nd\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\bin\Debug\Game.exe.config
+D:\College 2nd\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\bin\Debug\Game.exe
+D:\College 2nd\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\bin\Debug\Game.pdb
+D:\College 2nd\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\College 2nd\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\College 2nd\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.exe
+D:\College 2nd\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.pdb
+D:\College 2nd\1T\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\bin\Debug\Game.exe.config
+D:\College 2nd\1T\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\bin\Debug\Game.exe
+D:\College 2nd\1T\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\bin\Debug\Game.pdb
+D:\College 2nd\1T\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\College 2nd\1T\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.csproj.SuggestedBindingRedirects.cache
+D:\College 2nd\1T\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\College 2nd\1T\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.exe
+D:\College 2nd\1T\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.pdb

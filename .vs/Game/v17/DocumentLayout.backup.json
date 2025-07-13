@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Downloads\\Machine Problem (FINAL)\\Machine Problem (FINAL)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEE1C08-2C56-4404-A668-B055D618A722}|Game.csproj|c:\\users\\crist\\downloads\\machine problem (final)\\machine problem (final)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCEE1C08-2C56-4404-A668-B055D618A722}|Game.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEE1C08-2C56-4404-A668-B055D618A722}|Game.csproj|c:\\users\\crist\\downloads\\machine problem (final)\\machine problem (final)\\main_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCEE1C08-2C56-4404-A668-B055D618A722}|Game.csproj|solutionrelative:main_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCEE1C08-2C56-4404-A668-B055D618A722}|Game.csproj|c:\\users\\crist\\downloads\\machine problem (final)\\machine problem (final)\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCEE1C08-2C56-4404-A668-B055D618A722}|Game.csproj|solutionrelative:gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Downloads\\Machine Problem (FINAL)\\Machine Problem (FINAL)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\crist\\Downloads\\Machine Problem (FINAL)\\Machine Problem (FINAL)\\Program.cs [Design]",
+              "RelativeToolTip": "Program.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:18:36.508Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main_Game.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Downloads\\Machine Problem (FINAL)\\Machine Problem (FINAL)\\Main_Game.cs",
+              "RelativeDocumentMoniker": "Main_Game.cs",
+              "ToolTip": "C:\\Users\\crist\\Downloads\\Machine Problem (FINAL)\\Machine Problem (FINAL)\\Main_Game.cs [Design]",
+              "RelativeToolTip": "Main_Game.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:18:32.572Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gamescreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Downloads\\Machine Problem (FINAL)\\Machine Problem (FINAL)\\Gamescreen.cs",
+              "RelativeDocumentMoniker": "Gamescreen.cs",
+              "ToolTip": "C:\\Users\\crist\\Downloads\\Machine Problem (FINAL)\\Machine Problem (FINAL)\\Gamescreen.cs [Design]",
+              "RelativeToolTip": "Gamescreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:18:29.621Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
