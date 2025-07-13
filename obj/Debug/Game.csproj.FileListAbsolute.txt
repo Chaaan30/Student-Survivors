@@ -139,3 +139,10 @@ D:\College 2nd\1T\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group
 D:\College 2nd\1T\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.csproj.CoreCompileInputs.cache
 D:\College 2nd\1T\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.exe
 D:\College 2nd\1T\IT111L(C#)\Game\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Group_2_DelosSantos_Sibayan_Rivera_Ramos\Machine Problem (FINAL)\obj\Debug\Game.pdb
+C:\Users\crist\source\repos\Student-Survivors\bin\Debug\Game.exe.config
+C:\Users\crist\source\repos\Student-Survivors\bin\Debug\Game.exe
+C:\Users\crist\source\repos\Student-Survivors\bin\Debug\Game.pdb
+C:\Users\crist\source\repos\Student-Survivors\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Student-Survivors\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Student-Survivors\obj\Debug\Game.exe
+C:\Users\crist\source\repos\Student-Survivors\obj\Debug\Game.pdb

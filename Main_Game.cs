@@ -62,7 +62,7 @@ namespace Game
                 GO.FormBorderStyle = FormBorderStyle.FixedSingle;
 
                 Gamefin = new Label();
-                Gamefin.Font = new Font("Static Age", 50, FontStyle.Bold);
+                Gamefin.Font = new Font("Segoe UI", 32, FontStyle.Bold);
                 Gamefin.BackColor = System.Drawing.Color.Transparent;
                 Gamefin.ForeColor = Color.Maroon;
                 Gamefin.Text = "GAMEOVER!!!";
@@ -72,7 +72,7 @@ namespace Game
                 Gamefin.Parent = GO;
 
                 userplayer = new Label();
-                userplayer.Font = new Font("Static Age", 15, FontStyle.Bold);
+                userplayer.Font = new Font("Segoe UI", 12, FontStyle.Bold);
                 userplayer.BackColor = System.Drawing.Color.Transparent;
                 userplayer.ForeColor = Color.Maroon;
                 userplayer.Text = "Enter Name:";
@@ -82,14 +82,14 @@ namespace Game
 
                 username.AutoSize = true;
                 username.BackColor = Color.White;
-                username.Font = new Font("Static Age", 12, FontStyle.Bold, GraphicsUnit.Point, ((byte)(0)));
+                username.Font = new Font("Segoe UI", 10, FontStyle.Bold, GraphicsUnit.Point, ((byte)(0)));
                 username.Location = new Point(140, 114);
                 username.Size = new Size(200, 120);
                 username.TabIndex = 6;
                 username.Parent = GO;
 
                 Button getname = new Button();
-                getname.Font = new Font("Static Age", 15, FontStyle.Bold);
+                getname.Font = new Font("Segoe UI", 12, FontStyle.Bold);
                 getname.BackColor = Color.SlateGray;
                 getname.Text = "Enter";
                 getname.Location = new Point(350, 113);
@@ -360,15 +360,21 @@ namespace Game
 
         private void getname_Click(object sender, EventArgs e)
         {
+            string user = username.Text.Trim();
+            if (string.IsNullOrEmpty(user))
+            {
+                MessageBox.Show("Please enter a valid username.", "Invalid Username", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
             using (StreamWriter writer = new StreamWriter("Leaderboard.txt", true))
             {
-                writer.WriteLine(score + "|" + username.Text);
-                for (int i = Application.OpenForms.Count - 1; i >= 1; i--)
+                writer.WriteLine(score + "|" + user);
+            }
+            for (int i = Application.OpenForms.Count - 1; i >= 1; i--)
+            {
+                if (Application.OpenForms[i].Name != "StartMenuWindow")
                 {
-                    if (Application.OpenForms[i].Name != "StartMenuWindow")
-                    {
-                        Application.OpenForms[i].Close();
-                    }
+                    Application.OpenForms[i].Close();
                 }
             }
         }

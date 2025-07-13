@@ -24,7 +24,7 @@ namespace Game
         private void Gamescreen_Menu()
         {
             //health label Properties
-            this.label1.Font = new Font("Static Age", 23, FontStyle.Bold);
+            this.label1.Font = new Font("Segoe UI", 16, FontStyle.Bold);
             this.label1.BackColor = Color.Transparent;
             this.label1.ForeColor = Color.White;
             this.label1.Text = "Mental Health: ";
@@ -40,7 +40,7 @@ namespace Game
 
             //Score of the player (Kills)
             this.txtScore.AutoSize = true;
-            this.txtScore.Font = new Font("Static Age", 23, FontStyle.Bold); //removed font
+            this.txtScore.Font = new Font("Segoe UI", 14, FontStyle.Bold);
             this.txtScore.ForeColor = Color.White;
             this.txtScore.Location = new Point(1100, 10);
             this.txtScore.Name = "txtScore";
@@ -50,7 +50,7 @@ namespace Game
 
             //Ammo of the player (Knowledge)
             this.txtAmmo.AutoSize = true;
-            this.txtAmmo.Font = new Font("Static Age", 23, FontStyle.Bold); //removed font
+            this.txtAmmo.Font = new Font("Segoe UI", 14, FontStyle.Bold);
             this.txtAmmo.ForeColor = Color.White;
             this.txtAmmo.Location = new Point(1100, 45);
             this.txtAmmo.Name = "txtAmmo";

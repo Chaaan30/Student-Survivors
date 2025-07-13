@@ -44,7 +44,7 @@ namespace Game
 
             //Group Two Title Properties (under the game title)
             GroupLab = new Label();
-            GroupLab.Font = new Font("Static Age", 20, FontStyle.Bold);
+            GroupLab.Font = new Font("Segoe UI", 14, FontStyle.Bold);
             GroupLab.BackColor = System.Drawing.Color.Transparent;
             GroupLab.ForeColor = Color.Maroon;
             GroupLab.Text = "Made by Group Two";
@@ -54,7 +54,7 @@ namespace Game
 
             //Game Title Properties
             GameTitle = new Label();
-            GameTitle.Font = new Font("Static Age", 71, FontStyle.Bold);
+            GameTitle.Font = new Font("Segoe UI", 48, FontStyle.Bold);
             GameTitle.BackColor = System.Drawing.Color.Transparent;
             GameTitle.ForeColor = Color.Maroon;
             GameTitle.Text = "Student Survivors";
@@ -64,7 +64,7 @@ namespace Game
 
             //Start Button Properties
             Button BtnStart = new Button();
-            BtnStart.Font = new Font("Static Age", 36, FontStyle.Bold);
+            BtnStart.Font = new Font("Segoe UI", 24, FontStyle.Bold);
             BtnStart.BackColor = Color.SlateGray;
             BtnStart.Text = "Start";
             BtnStart.Location = new System.Drawing.Point(10, 250);
@@ -75,7 +75,7 @@ namespace Game
 
             //Exit Button Properties
             Button BtnExit = new Button();
-            BtnExit.Font = new Font("Static Age", 36, FontStyle.Bold);
+            BtnExit.Font = new Font("Segoe UI", 24, FontStyle.Bold);
             BtnExit.BackColor = Color.SlateGray;
             BtnExit.Text = "Exit";
             BtnExit.Location = new System.Drawing.Point(624, 250);
@@ -86,7 +86,7 @@ namespace Game
 
             //LeaderBoard Button Properties
             Button Leaderboard = new Button();
-            Leaderboard.Font = new Font("Static Age", 36, FontStyle.Bold);
+            Leaderboard.Font = new Font("Segoe UI", 24, FontStyle.Bold);
             Leaderboard.BackColor = Color.SlateGray;
             Leaderboard.Text = "Leaderboard";
             Leaderboard.Location = new System.Drawing.Point(291, 250);
@@ -113,7 +113,7 @@ namespace Game
 
             //LeaderBoard Title (Top Players)
             LeaderTitle = new Label();
-            LeaderTitle.Font = new Font("Static Age", 48, FontStyle.Bold);
+            LeaderTitle.Font = new Font("Segoe UI", 32, FontStyle.Bold);
             LeaderTitle.BackColor = System.Drawing.Color.Transparent;
             LeaderTitle.ForeColor = Color.Maroon;
             LeaderTitle.Text = "Top Players";
@@ -124,7 +124,7 @@ namespace Game
 
             //Button for showing the leaderboards
             Button sort_b = new Button();
-            sort_b.Font = new Font("Static Age", 36, FontStyle.Bold);
+            sort_b.Font = new Font("Segoe UI", 18, FontStyle.Bold);
             sort_b.BackColor = Color.LightGray;
             sort_b.Text = "SHOW";
             sort_b.Location = new Point(190, 210);
@@ -141,30 +141,27 @@ namespace Game
             //code for saving the leaderboard to a txt file
             void show_Click(object sender, EventArgs e)
             {
+
                 sort_b.Enabled = false;
-
                 List<ScoreListing> list = new List<ScoreListing>();
-                StreamReader txt = new StreamReader("Leaderboard.txt");
-
-                int counter = 0;
-
-                string line;
-
-                var sortedLeaderboard = list.OrderByDescending(l => l.Score);
-                while ((line = txt.ReadLine()) != null)
+                using (StreamReader txt = new StreamReader("Leaderboard.txt"))
                 {
-                    var elements = line.Split('|');
-                    var listing = new ScoreListing
+                    string line;
+                    while ((line = txt.ReadLine()) != null)
                     {
-                        Score = int.Parse(elements[0]),
-                        Text = elements[1]
-
-                    };
-
-                    list.Add(listing);
-
-                    counter++;
+                        var elements = line.Split('|');
+                        if (elements.Length == 2 && int.TryParse(elements[0], out int score))
+                        {
+                            string user = elements[1].Trim();
+                            if (!string.IsNullOrEmpty(user))
+                            {
+                                list.Add(new ScoreListing { Score = score, Text = user });
+                            }
+                        }
+                    }
                 }
+                var sortedLeaderboard = list.OrderByDescending(l => l.Score).Take(10);
+                List1.Items.Clear();
                 foreach (var item in sortedLeaderboard)
                 {
                     List1.Items.Add($"{item.Score} | {item.Text}");
@@ -191,7 +188,7 @@ namespace Game
 
             //Character Select Title (Choose your Student)
             ChooseTitle = new Label();
-            ChooseTitle.Font = new Font("Static Age", 48, FontStyle.Bold);
+            ChooseTitle.Font = new Font("Segoe UI", 32, FontStyle.Bold);
             ChooseTitle.BackColor = System.Drawing.Color.Transparent;
             ChooseTitle.ForeColor = Color.Maroon;
             ChooseTitle.Text = "Choose your Student";
@@ -202,7 +199,7 @@ namespace Game
 
             //Character One Properties
             Choosechar1 = new Label();
-            Choosechar1.Font = new Font("Static Age", 20, FontStyle.Bold);
+            Choosechar1.Font = new Font("Segoe UI", 14, FontStyle.Bold);
             Choosechar1.BackColor = System.Drawing.Color.Transparent;
             Choosechar1.ForeColor = Color.Maroon;
             Choosechar1.Text = "The Normal";
@@ -214,7 +211,7 @@ namespace Game
 
             //Character Two Properties
             Choosechar2 = new Label();
-            Choosechar2.Font = new Font("Static Age", 20, FontStyle.Bold);
+            Choosechar2.Font = new Font("Segoe UI", 14, FontStyle.Bold);
             Choosechar2.BackColor = System.Drawing.Color.Transparent;
             Choosechar2.ForeColor = Color.Maroon;
             Choosechar2.Text = "The Buff";
@@ -224,7 +221,7 @@ namespace Game
 
             //Character Three Properties
             Choosechar3 = new Label();
-            Choosechar3.Font = new Font("Static Age", 20, FontStyle.Bold);
+            Choosechar3.Font = new Font("Segoe UI", 14, FontStyle.Bold);
             Choosechar3.BackColor = System.Drawing.Color.Transparent;
             Choosechar3.ForeColor = Color.Maroon;
             Choosechar3.Text = "The Eternal";
@@ -234,7 +231,7 @@ namespace Game
 
             //Character Four Properties
             Choosechar4 = new Label();
-            Choosechar4.Font = new Font("Static Age", 20, FontStyle.Bold);
+            Choosechar4.Font = new Font("Segoe UI", 14, FontStyle.Bold);
             Choosechar4.BackColor = System.Drawing.Color.Transparent;
             Choosechar4.ForeColor = Color.Maroon;
             Choosechar4.Text = "The Ascendant";
@@ -299,7 +296,7 @@ namespace Game
             //START BUTTON PROPERTIES
             int charSelected = 0;
             Button BtnStartSelect = new Button();
-            BtnStartSelect.Font = new Font("Static Age", 36, FontStyle.Bold);
+            BtnStartSelect.Font = new Font("Segoe UI", 18, FontStyle.Bold);
             BtnStartSelect.BackColor = Color.SlateGray;
             BtnStartSelect.Text = "Start";
             BtnStartSelect.Location = new System.Drawing.Point(325, 351);
